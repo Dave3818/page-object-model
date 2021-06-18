@@ -1,0 +1,8 @@
+com/pages/BasePage.java
+ com.pages.BasePage
+com/pages/Page.java
+ com.pages.Page
+com/pages/LoginPage.java
+ com.pages.LoginPage
+com/pages/HomePage.java
+ com.pages.HomePage
